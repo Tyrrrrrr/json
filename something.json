@@ -4,47 +4,47 @@
         "name": "Pad Thai",
         "detail": "It is typically made with rice noodles, shrimp, peanuts, a scrambled egg, and bean sprouts. The ingredients are fried in a wok.",
         "coverimage": "https://pinchofyum.com/wp-content/uploads/Vegetarian-Pad-Thai-Recipe.jpg",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "5",
+        "longitude": "Thailand"
     },
     {
         "id": 2,
         "name": "Phat kaphrao",
         "detail": "pad kaprao is a combination of stir fried chilies, garlic, protein, and the most essential that distinguishes it from all other dishes.",
         "coverimage": "https://www.huahintoday.com/wp-content/uploads/2023/12/pad-krapow-2.jpeg",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "5",
+        "longitude": "Thailand"
     },
     {
         "id": 3,
         "name": "Khao Soi",
         "detail": "Khao Soi is a deliciously creamy and slightly spicy yellow curry dish unique to Northern Thailand.",
         "coverimage": "https://hot-thai-kitchen.com/wp-content/uploads/2014/01/kao-soi-blog.jpg",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "5",
+        "longitude": "Thailand"
     },
     {
         "id": 4,
         "name": "Tom Yum Goong",
         "detail": "Tom Yam is a type of soup with distinct sharp hot and sour flavors, scented with a pleasant citrusy aroma.",
         "coverimage": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "5",
+        "longitude": "Thailand"
     },
     {
         "id": 5,
         "name": "Chicken Green Curry",
         "detail": "This Thai curry has a beautifully fresh flavor thanks to a homemade curry paste and the addition of Thai basil, cilantro, and makrut lime leaf and peel.",
         "coverimage": "https://zenaskitchen.com/wp-content/uploads/2022/09/thai-green-chicken-curry.jpg",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "5",
+        "longitude": "Thailand"
     },
     {
         "id": 6,
         "name": "Mango Sticky Rice",
         "detail": "Mango sticky rice is a traditional Southeast Asian and South Asian dessert made with glutinous rice, fresh mango and coconut milk.",
         "coverimage": "https://hot-thai-kitchen.com/wp-content/uploads/2022/09/Mango-sticky-rice-blog.jpg",
-        "latitude": "",
-        "longitude": ""
+        "latitude": "5",
+        "longitude": "Thailand"
     }
 ]
