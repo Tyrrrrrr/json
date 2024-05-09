@@ -1,50 +1,42 @@
 [
     {
         "id": 1,
-        "name": "Pad Thai",
-        "detail": "It is typically made with rice noodles, shrimp, peanuts, a scrambled egg, and bean sprouts. The ingredients are fried in a wok.",
-        "coverimage": "https://pinchofyum.com/wp-content/uploads/Vegetarian-Pad-Thai-Recipe.jpg",
-        "latitude": "5",
-        "longitude": "Thailand"
+        "name": "เมนูเด็ด: ปอเปี๊ยะกุ้งวุ้นเส้น by Suanporsuk",
+        "detail": " อาหารคาวมีให้เลือกไม่มาก เน้นเครื่องดื่มและขนมเป็นหลัก อ่อ มีจำหน่ายผัดสดออแกนิคด้วย สามารถเลือกซื้อได้อยู่ในตู้เย็นภายในร้านครับ ",
+        "coverimage": "https://img.wongnai.com/p/400x0/2020/09/05/81facb4378264aa6bea994b45440bfe1.jpg",
+        "latitude": "3.4",
+        "longitude": "คลอง6"
     },
     {
         "id": 2,
-        "name": "Phat kaphrao",
-        "detail": "pad kaprao is a combination of stir fried chilies, garlic, protein, and the most essential that distinguishes it from all other dishes.",
-        "coverimage": "https://www.huahintoday.com/wp-content/uploads/2023/12/pad-krapow-2.jpeg",
-        "latitude": "5",
-        "longitude": "Thailand"
+        "name": "เมนูเด็ด: พิซซ่า by Ruedookarn",
+        "detail": "พิซซ่า แซลมอนสโมค, ซี่โครงหมูบาบีคิว, ครัวซองท์ แฮมชีส รสชาติโอเคยังไม่โดดเด่นนัก..ไอซ์ อะเมริกาโน่, ไอซ์ มัทฉะ, ไอซ์ ไทยมิลค์ที เข้มดี..มัทฉะมูสเค้ก, เลมอน ชีส ทาร์ต รสชาติดี..เรดเวลเว็ทเค้ก, เค้กแครอทและวอนัท โอเค..เมนูไม่มากแต่หลากหลาย",
+        "coverimage": "https://img.wongnai.com/p/1920x0/2023/01/15/b988c55846a14a9983264133ea312cb8.jpg",
+        "latitude": "3.8",
+        "longitude": "เมืองเอก"
     },
     {
         "id": 3,
-        "name": "Khao Soi",
-        "detail": "Khao Soi is a deliciously creamy and slightly spicy yellow curry dish unique to Northern Thailand.",
-        "coverimage": "https://hot-thai-kitchen.com/wp-content/uploads/2014/01/kao-soi-blog.jpg",
-        "latitude": "5",
-        "longitude": "Thailand"
+        "name": "เมนูเด็ด: หมั่นโถกรอบนอกนุ่มในโปะไอติมนมอัดเม็ด by TTicecream",
+        "detail": "คาเฟ่สไตล์จีนในย่านรังสิต ร้านถ้วยถังไอติม ร้านไอศกรีมสุดชิค โดดเด่นด้วยการตกแต่งสไตล์จีนที่ไม่เหมือนใคร ให้ความรู้สึกเหมือนเราอยู่ที่ประเทศฮ่องกง อีกทั้งความพิเศษของเมนูไอศกรีม ที่มีหลากหลายรสชาติ และเสิร์ฟพร้อมกับหมั่นโถวทอดร้อนๆกรอบๆ บอกเลยว่ารสชาติเด็ดสุดๆ",
+        "coverimage": "https://img.wongnai.com/p/1920x0/2023/02/28/97bf2886a0d5400f81c4eaf63fb711cb.jpg",
+        "latitude": "4.2",
+        "longitude": "เมืองเอก"
     },
     {
         "id": 4,
-        "name": "Tom Yum Goong",
-        "detail": "Tom Yam is a type of soup with distinct sharp hot and sour flavors, scented with a pleasant citrusy aroma.",
-        "coverimage": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
-        "latitude": "5",
-        "longitude": "Thailand"
+        "name": "เมนูเด็ด: ชาเย็น by Cat Cafe Healthy Juice",
+        "detail": "ด้านบน เป็นฟองน้ำรูปแมวเหมียว น่ารักมากกกก หวานกำลังดี หอมชานิดๆ",
+        "coverimage": "https://img.wongnai.com/p/1920x0/2020/03/15/79213e83fa8849ecb9353ddd3fac2bca.jpg",
+        "latitude": "3.4",
+        "longitude": "ถนน เอกทักษิณ"
     },
     {
         "id": 5,
-        "name": "Chicken Green Curry",
-        "detail": "This Thai curry has a beautifully fresh flavor thanks to a homemade curry paste and the addition of Thai basil, cilantro, and makrut lime leaf and peel.",
-        "coverimage": "https://zenaskitchen.com/wp-content/uploads/2022/09/thai-green-chicken-curry.jpg",
-        "latitude": "5",
-        "longitude": "Thailand"
-    },
-    {
-        "id": 6,
-        "name": "Mango Sticky Rice",
-        "detail": "Mango sticky rice is a traditional Southeast Asian and South Asian dessert made with glutinous rice, fresh mango and coconut milk.",
-        "coverimage": "https://hot-thai-kitchen.com/wp-content/uploads/2022/09/Mango-sticky-rice-blog.jpg",
-        "latitude": "5",
-        "longitude": "Thailand"
+        "name": "เมนูเด็ด: Espresso Tonic by Loafer.coffee",
+        "detail": "ร้านกาแฟ มีเมล็ดให้เลือกหลากหลาย มีเมนู Special เช่น Dirty, Espresso Tonic สายกาแฟต้องมาลอง ราคาไม่แพง กาแฟรสชาติชัด หอม คาแรคเตอร์พิเศษทุกตัว ใครไม่ชอบกาแฟ ก็มี Non coffee ด้วย แล้วก็มี Homemade Bakery ที่แนะนำเลยคือ Lemon cake กับ Soft cookies",
+        "coverimage": "https://img.wongnai.com/p/1920x0/2022/07/08/a545918b68254b1693aa34e8ecda6359.jpg",
+        "latitude": "4.9",
+        "longitude": "เมืองเอก"
     }
 ]
